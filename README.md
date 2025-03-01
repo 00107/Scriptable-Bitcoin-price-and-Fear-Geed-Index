@@ -16,3 +16,7 @@ This Scriptable widget provides a quick view of the current Bitcoin price in EUR
 1. Install the Scriptable app on your iOS device.
 2. Create a new script and copy-paste the provided JavaScript code into the script editor.
 3. Run the script to view the widget or add it to your home screen for regular updates.
+
+## Screenshot
+
+![Model](https://github.com/00107/Scriptable-Bitcoin-price-and-Fear-Geed-Index/blob/main/screenshot.jpeg?raw=true)
